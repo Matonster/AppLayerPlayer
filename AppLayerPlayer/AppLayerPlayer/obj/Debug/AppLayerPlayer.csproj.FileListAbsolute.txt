@@ -1,0 +1,10 @@
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\bin\Debug\AppLayerPlayer.exe.config
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\bin\Debug\AppLayerPlayer.exe
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\bin\Debug\AppLayerPlayer.pdb
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\bin\Debug\WinMM.Net.dll
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\obj\Debug\AppLayerPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\obj\Debug\AppLayerPlayer.Form1.resources
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\obj\Debug\AppLayerPlayer.Properties.Resources.resources
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\obj\Debug\AppLayerPlayer.csproj.GenerateResource.Cache
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\obj\Debug\AppLayerPlayer.exe
+C:\Users\Matonster\Documents\GitHub\AppLayerPlayer\AppLayerPlayer\AppLayerPlayer\obj\Debug\AppLayerPlayer.pdb
